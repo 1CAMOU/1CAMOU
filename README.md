@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @1CAMOU
+- 👀 I’m interested in working on game servers within Minecraft & Roblox
+- 🌱 I’m currently learning Ethical Hacking
