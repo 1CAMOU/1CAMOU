@@ -1,2 +1,2 @@
-<img src="https://i.imgur.com/JJum0v4.png"
+<img src="https://i.imgur.com/05k7AxN.png"
      alt="GrowParrot" />
