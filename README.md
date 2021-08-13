@@ -1,2 +1,1 @@
-<img href="https://pamemo.com" src="https://i.imgur.com/ppZUsW3.pngg"
-     alt="Pamemo.com" />
+[<img src="https://i.imgur.com/ppZUsW3.png">](https://pamemo.com)
