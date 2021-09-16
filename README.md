@@ -22,5 +22,6 @@
   Hey! I am a full-stack PHP developer, from Germany.
   <br />
   My current tech stack of choice are <b>Laravel</b>, <b>Svelte</b> and <b>Tailwind CSS</b>.
+  <br />
   I love building monolithic applications with <b>Inertia.js</b>.
 </div>
