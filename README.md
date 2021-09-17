@@ -5,16 +5,19 @@
 <p align="center">
   <br />
   <a href="https://www.linkedin.com/in/michael-sieminski-40413521a/">
-    <img alt="Status" src="https://img.shields.io/badge/-linkedin-0073B1?style=flat-square">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-0073B1?style=flat-square">
+  </a>
+  <a href="https://dribbble.com/michaelsi">
+     <img alt="Dribbble" src="https://img.shields.io/badge/-%20dribbble-%23ff69b4?style=flat-square">
   </a>
   <a href="https://twitter.com/michaelsiemin">
-    <img alt="npm" src="https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square">
+    <img alt="Twitter" src="https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square">
   </a>
   <a href="https://sieminski.me">
-    <img alt="npm" src="https://img.shields.io/badge/-website-EE3E5D?style=flat-square">
+    <img alt="Website" src="https://img.shields.io/badge/-website-EE3E5D?style=flat-square">
   </a>
   <a href="mailto:work@sieminski.me">
-    <img alt="npm" src="https://img.shields.io/badge/-email-f96cb4?style=flat-square">
+    <img alt="Email" src="https://img.shields.io/badge/-email-f96cb4?style=flat-square">
   </a>
 </p>
 
