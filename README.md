@@ -24,5 +24,5 @@
 <div align="center">
   Hey! I am a full-stack PHP developer, from Germany.
   <br />
-  My current tech stack of choice is <b>Laravel</b>, <b>Svelte</b> and <b>Tailwind CSS</b>.
+  My current tech stack of choice is <b>TALL</b> (TailwindCSS, Alpine.js, Laravel & Livewire).
 </div>
