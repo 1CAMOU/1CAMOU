@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Michael Sieminski!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I am Michael Sieminski!
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=1camou&theme=dark&hide_border=true" />
