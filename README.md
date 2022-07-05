@@ -40,5 +40,8 @@
 ---
 
 <div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1CAMOU&hide=java,html,css&theme=dark&hide_border=true" /></br><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=1camou&theme=dark&hide_border=true" />
 </div>
+
+---
