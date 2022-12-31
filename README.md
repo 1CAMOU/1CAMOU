@@ -15,7 +15,7 @@
 <div align="center">
   A Software Engineer specializing in modern Web Technologies listed in the Toolbox below.
   <br />
-  I build Software in my freetime and sometimes showcase it on my <a href="https://twitter.com/michaelsiemin">Twitter</a>.
+  Building Software is my job & passion and I sometimes showcase it on my <a href="https://twitter.com/michaelsiemin">Twitter</a>.
   <br />
   You should definitely check it out to stay up-to-date!
 </div>
