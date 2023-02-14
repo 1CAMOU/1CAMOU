@@ -10,7 +10,6 @@
   <a href="https://twitter.com/michaelsiemin">
     <img alt="Twitter" src="https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square">
   </a>
-  <img alt="Lightning Wallet" src="https://img.shields.io/badge/lightning-michaelsi%40getalby.com-yellow">
 </p>
 
 <div align="center">
