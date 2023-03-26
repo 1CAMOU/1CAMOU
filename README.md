@@ -24,8 +24,7 @@
 <p align="center">🧰 Toolbox</p>
   
 <div align="center">
-  
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/jee-3.svg" alt="Java" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/go-8.svg" alt="Go" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" alt="Nuxt" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="TailwindCSS" width="50px" height="50px" />
+<img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" width="50px" height="50px"/><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="TailwindCSS" width="50px" height="50px" />
 </div>
   
 ---
