@@ -19,13 +19,6 @@
   <br />
   You should definitely check it out to stay up-to-date!
 </div>
-
----
-<p align="center">🧰 Toolbox</p>
-  
-<div align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" width="50px" height="50px"/><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="50px" height="50px" /><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="TailwindCSS" width="50px" height="50px" />
-</div>
   
 ---
 
