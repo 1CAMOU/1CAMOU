@@ -13,9 +13,9 @@
 </p>
 
 <div align="center">
-  A Software Engineer specializing in modern Web Technologies listed in the Toolbox below.
+  A Software Engineer specializing in modern Web Technologies such as Laravel, Nuxt, Next.js & more.
   <br />
-  Building Software is my job & passion and I sometimes showcase it on my <a href="https://twitter.com/michaelsiemin">Twitter</a>.
+  Building Software is my job & passion and I sometimes showcase it on <a href="https://twitter.com/michaelsiemin">Twitter</a>.
   <br />
   You should definitely check it out to stay up-to-date!
 </div>
