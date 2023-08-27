@@ -7,15 +7,15 @@
   <a href="https://dribbble.com/michaelsi">
      <img alt="Dribbble" src="https://img.shields.io/badge/-%20dribbble-%23ff69b4?style=flat-square">
   </a>
-  <a href="https://twitter.com/michaelsiemin">
-    <img alt="Twitter" src="https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square">
+  <a href="https://x.com/michaelsiemin">
+    <img alt="X" src="https://img.shields.io/badge/-x-000000?style=flat-square">
   </a>
 </p>
 
 <div align="center">
-  A Software Engineer specializing in modern Web Technologies such as Laravel, Nuxt, Next.js & more.
+  A Software Engineer specializing in modern Web Technologies such as Laravel, Svelte, Vue, Astro & more
   <br />
-  Building Software is my job & passion and I sometimes showcase it on <a href="https://twitter.com/michaelsiemin">Twitter</a>.
+  Building Software is my job & passion and I sometimes showcase it on <a href="https://x.com/michaelsiemin">X</a>.
   <br />
   You should definitely check it out to stay up-to-date!
 </div>
