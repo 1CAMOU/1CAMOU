@@ -15,7 +15,7 @@
 <div align="center">
   A Software Engineer specializing in modern Web Technologies such as Laravel, Svelte, Vue, Astro & more
   <br />
-  Building Software is my job & passion and I sometimes showcase it on <a href="https://x.com/michaelsiemin">X</a>.
+  Building Software is my job & passion and I sometimes showcase it on <a href="https://x.com/michaelsiemin">𝕏</a>.
   <br />
   You should definitely check it out to stay up-to-date!
 </div>
