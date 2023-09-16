@@ -8,7 +8,7 @@
      <img alt="Dribbble" src="https://img.shields.io/badge/-%20dribbble-%23ff69b4?style=flat-square">
   </a>
   <a href="https://x.com/michaelsiemin">
-    <img alt="X" src="https://img.shields.io/badge/-x-000000?style=flat-square">
+    <img alt="X" src="https://img.shields.io/badge/-𝕏-000000?style=flat-square">
   </a>
 </p>
 
