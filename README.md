@@ -1,5 +1,5 @@
 <div align="center">
-  Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I am Michael!
+  Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I am Michael!
 </div>
 
 <p align="center">
