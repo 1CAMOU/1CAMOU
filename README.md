@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  A Software Engineer specializing in modern Web Technologies such as Laravel, Svelte, Vue, Astro & more
+  A Software Engineer specializing in modern Web Technologies such as Ruby on Rails, Laravel, Svelte, Vue, Astro & more.
   <br />
   Building Software is my job & passion and I sometimes showcase it on <a href="https://x.com/michaelsiemin">𝕏</a>.
   <br />
